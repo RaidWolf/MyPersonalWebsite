@@ -1,0 +1,216 @@
+h1{
+    margin: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #398AB9;
+}
+
+h2.UpcomingDev{
+    font-family: 'Righteous', cursive;
+    color: #1C658C;
+    font-size: 1.7rem;
+    margin-top: 0;
+    font-weight: normal;
+}
+
+h2.Whatup{
+    font-family: 'Mate SC', serif;
+    font-size: 3rem;
+    color: #398AB9;
+}
+
+h2.WhatCanIdo{
+    font-family: 'Mate SC', serif;
+    font-size: 3rem;
+    color: #398AB9;
+    margin-top: 100px;
+}
+
+h2.GetInTouch{
+    font-family: 'Mate SC', serif;
+    font-size: 3rem;
+    color: #398AB9;
+    margin-top: 0;
+}
+
+h3{
+    font-family: 'Mate SC', serif;
+    color: #398AB9;
+    font-size: 1.8rem;
+}
+
+
+
+hr.top-hr{
+    border-style: none;
+    width: 6%;
+    align-items: center;
+    border-bottom-style: dotted ;
+    border-width: 8px;
+    border-color: gray;
+    padding-top: 30px;
+}
+
+hr.bottom-hr{
+    border-style: none;
+    width: 6%;
+    align-items: center;
+    border-bottom-style: dotted ;
+    border-width: 8px;
+    border-color: gray;
+    padding-top: 30px;
+    margin-top: 100px;
+}
+
+p{
+    font-family: 'Hubballi', cursive;
+    font-size: 1.25rem;
+    color: #ffffff;
+    
+}
+
+p.bottomP{
+    font-family: 'Hubballi', cursive;
+    font-size: 1.25rem;
+    color: #1C658C;
+    padding-bottom: 15px;
+}
+
+p.copyright{
+    font-family: 'Hubballi', cursive;
+    font-size: 1.25rem;
+    color: #1C658C;
+    margin-bottom: 0;
+}
+
+a.footer-link{
+    color: #398AB9;
+    text-decoration: none;
+    padding: 0 25px 0 25px;
+    
+}
+
+a.footer-link:hover{
+    color: black;
+}
+   
+
+span.up{
+    text-decoration: underline;
+    color: #398AB9;
+}
+
+body{
+    margin: 0px;
+    text-align: center;
+}
+
+.top-container{
+    background-color: #BFFFF0;
+    height: 800px;
+    position: relative;
+}
+
+.topin{
+   
+    position:relative;
+    top: 130px;
+}
+
+.middle-container{
+    background-color: #151D3B;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.bottom-container{
+    background-color: #BFFFF0;  
+    padding-top: 50px; 
+    padding-bottom: 40px;
+}  
+
+div.skill-row{
+    width: 50%;                /* TO CUT THE SIZE OF THE SKILL-ROW DIVISION TO STYLE IT AND IT WILL GO TO FULL LEFT AFTER THIS LINE OF CODE */
+    margin: 100px auto 170px auto;            /* TO BRING THE DIV TO CENTER WE USE MARGIN AND FIRST <0> IS TOP AND BOTTOM AND <AUTO> IS RIGHT AND LEFT...USE THIS AND MAKE IT CENTER */          
+    text-align: left;
+    line-height: 1.5;
+}
+
+div.profile{
+    width: 50%;
+    line-height: 1.5;
+    margin: auto;
+}
+
+div.contact-me{
+    padding-bottom: 30px;
+}
+
+img.mountain{
+    position: absolute;
+    bottom: 0px;
+    right: 550px;
+    width: 900px;
+}
+
+img.cloudtop{
+    position: absolute;
+    right: 300px;
+    top: 100px;
+    
+}
+
+img.cloudbottom{
+    position: absolute;
+    left: 300px;
+    top: 330px;
+}
+
+img.myprofile{
+    width: 40%;
+    
+}
+
+img.gamer{
+    width: 35%;
+    float: left;
+    margin-right: 25px;
+
+}
+
+img.adapt{
+    width: 28%;
+    float: right;
+    margin-left: 25px;
+}
+
+.youtube{
+    background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 25px;
+  padding: 10px 20px 10px 20px;
+  border: solid #151D3B 1px;
+  text-decoration: none;
+  
+}
+
+.youtube:hover {
+  background: #000000;
+  background-image: -webkit-linear-gradient(top, #000000, #000000);
+  background-image: -moz-linear-gradient(top, #000000, #000000);
+  background-image: -ms-linear-gradient(top, #000000, #000000);
+  background-image: -o-linear-gradient(top, #000000, #000000);
+  background-image: linear-gradient(to bottom, #000000, #000000);
+  text-decoration: none;
+}
+    
+
